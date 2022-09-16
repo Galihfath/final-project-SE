@@ -23,5 +23,3 @@ If(product-name, is available)
 else{
     Print("This Product is not available");
 }
-
-
